@@ -1,0 +1,11 @@
+package: github.com/ghongli/logging
+license: MIT
+owners:
+- name: steve_bot
+  email:
+ignore:
+- appengine
+excludeDirs:
+- node_modules
+- vendor
+import:
